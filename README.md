@@ -6,7 +6,7 @@ It is very light weight repo, So recommended starting with cloning the repo
 ```
 git clone https://github.com/Jatin-8898/BloodCampSystem.git
 ```
-##Getting Started
+### Getting Started
 Navigate to the dist folder and Run the following command
 ```
 java -jar BloodCamp.jar
